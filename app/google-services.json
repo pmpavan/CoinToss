@@ -1,0 +1,50 @@
+{
+  "project_info": {
+    "project_number": "236618655037",
+    "firebase_url": "https://cointoss-fd167.firebaseio.com",
+    "project_id": "cointoss-fd167",
+    "storage_bucket": "cointoss-fd167.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236618655037:android:16e186f218806f66",
+        "android_client_info": {
+          "package_name": "in.pmpavan.app.cointoss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236618655037-7rmt1jq0u0edh8adpn66u511h7q2pfib.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.pmpavan.app.cointoss",
+            "certificate_hash": "761da3c56844042788e63f747efed5fa0fc9277a"
+          }
+        },
+        {
+          "client_id": "236618655037-u4sda7re3m4l5a1foi7trojl3hg0be89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2LtrLarYhy_mwZaEJYpkgIzvsfWEWkLE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

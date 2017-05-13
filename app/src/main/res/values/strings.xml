@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CoinToss</string>
+    <string name="toss">Toss!!</string>
+    <string name="heads">It\'s Heads</string>
+    <string name="tails">Tails it is!!</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <!--<string name="banner_ad_unit_id">ca-app-pub-6159407697013834/9059419304</string>-->
+    <string name="try_your_luck_mate">Try your Luck Mate!!</string>
+</resources>
