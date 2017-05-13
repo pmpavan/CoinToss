@@ -144,22 +144,22 @@ public class CoinTossActivity extends AppCompatActivity implements CoinTossContr
         });
     }
 
-    private boolean isFlipped() {
-        return mFlipAnimator.getAnimatedFraction() == 1;
-    }
-
-    private boolean isFlipping() {
-        final float currentValue = mFlipAnimator.getAnimatedFraction();
-        return (currentValue < 1 && currentValue > 0);
-    }
-
-    private void toggleFlip() {
-        if (isFlipped()) {
-            mFlipAnimator.reverse();
-        } else {
-            mFlipAnimator.start();
-        }
-    }
+//    private boolean isFlipped() {
+//        return mFlipAnimator.getAnimatedFraction() == 1;
+//    }
+//
+//    private boolean isFlipping() {
+//        final float currentValue = mFlipAnimator.getAnimatedFraction();
+//        return (currentValue < 1 && currentValue > 0);
+//    }
+//
+//    private void toggleFlip() {
+//        if (isFlipped()) {
+//            mFlipAnimator.reverse();
+//        } else {
+//            mFlipAnimator.start();
+//        }
+//    }
 
     private void loadAdView() {
         MobileAds.initialize(getApplicationContext(), "ca-app-pub-3940256099942544~3347511713");
