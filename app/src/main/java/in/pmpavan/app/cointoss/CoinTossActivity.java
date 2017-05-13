@@ -182,7 +182,6 @@ public class CoinTossActivity extends AppCompatActivity implements CoinTossContr
         rotation.setDuration(500);
         rotation.setFillAfter(true);
 //        rotation.setRepeatCount(Animation.INFINITE);
-//        rotation.setRepeatMode(Animation.INFINITE);
         rotation.setInterpolator(new AccelerateInterpolator());
         rotation.setAnimationListener(new DisplayNextView(isFirstImage, headsImageView, tailsImageView));
 
