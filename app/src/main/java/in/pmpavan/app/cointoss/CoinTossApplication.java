@@ -22,6 +22,11 @@ public class CoinTossApplication extends MultiDexApplication {
         initLogger();
         initFireBase();
         initCrashlytics();
+        
+        
+        
+        
+        //empty comment
     }
 
     private void initFireBase() {
